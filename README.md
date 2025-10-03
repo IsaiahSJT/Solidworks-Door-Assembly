@@ -1,4 +1,4 @@
-# Solidworks-Door-Assembly
+# Solidworks Door Assembly
 A Door Assembly modeled in Solidworks. Includes:
 * Solidparts for each model
 * Drawing of assembly
